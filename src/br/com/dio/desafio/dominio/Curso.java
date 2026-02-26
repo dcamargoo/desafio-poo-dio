@@ -24,6 +24,7 @@ public class Curso extends Conteudo{
         return "Curso{" +
                 "titulo=" + getTitulo() + " / " +
                 "descricao=" + getDescricao() + " / " +
+                "tipo=" + getTipo() + " / " +
                 "cargaHoraria=" + this.cargaHoraria +
                 '}';
     }
