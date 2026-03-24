@@ -1,4 +1,4 @@
-# Desafio POO DIO
+# Gerenciamento de Bootcamps
 
 Esse desafio foi proposto na atividade "Abstraindo um Bootcamp Usando Orientação a Objetos em Java" pela empresa DIO, o qual permitiu que eu reforçasse minhas habilidades com a Programação Orientada a Objetos e outros conceitos em Java.
 
